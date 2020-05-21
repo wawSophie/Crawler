@@ -49,13 +49,13 @@
         <dependency>
             <groupId>net.sourceforge.htmlunit</groupId>
             <artifactId>htmlunit</artifactId>
-            <version>2.18</version>
+            <version>2.37.0</version>
         </dependency>
         <!--网页解析工具-->
         <dependency>
             <groupId>net.sourceforge.htmlunit</groupId>
             <artifactId>htmlunit</artifactId>
-            <version>2.18</version>
+            <version>2.37.0</version>
             <!--排除-->
             <exclusions>
                 <exclusion>
